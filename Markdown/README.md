@@ -26,5 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, önce neyi değişt
 
 # Licence
 
-[MİT](https://www.google.com/)
+[MİT](https://choosealicense.com/licenses/mit/)
 
